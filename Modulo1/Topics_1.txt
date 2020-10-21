@@ -1,0 +1,10 @@
+.NET Core Guide
+https://docs.microsoft.com/en-us/dotnet/fundamentals/
+
+Get Started - C# Guide
+https://docs.microsoft.com/en-us/dotnet/csharp/getting-started/
+
+* Variaveis, tipos por valor e por referência
+* Hello World com C#
+* Conversões
+* Condicionais e Loops
