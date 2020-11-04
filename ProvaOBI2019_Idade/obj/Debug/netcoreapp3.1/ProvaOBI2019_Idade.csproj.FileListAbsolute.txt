@@ -1,0 +1,12 @@
+/Users/crc/Desktop/aprenderCSharp/ProvaOBI2019_Idade/bin/Debug/netcoreapp3.1/ProvaOBI2019_Idade.deps.json
+/Users/crc/Desktop/aprenderCSharp/ProvaOBI2019_Idade/bin/Debug/netcoreapp3.1/ProvaOBI2019_Idade.runtimeconfig.json
+/Users/crc/Desktop/aprenderCSharp/ProvaOBI2019_Idade/bin/Debug/netcoreapp3.1/ProvaOBI2019_Idade.runtimeconfig.dev.json
+/Users/crc/Desktop/aprenderCSharp/ProvaOBI2019_Idade/bin/Debug/netcoreapp3.1/ProvaOBI2019_Idade.dll
+/Users/crc/Desktop/aprenderCSharp/ProvaOBI2019_Idade/bin/Debug/netcoreapp3.1/ProvaOBI2019_Idade.pdb
+/Users/crc/Desktop/aprenderCSharp/ProvaOBI2019_Idade/obj/Debug/netcoreapp3.1/ProvaOBI2019_Idade.csprojAssemblyReference.cache
+/Users/crc/Desktop/aprenderCSharp/ProvaOBI2019_Idade/obj/Debug/netcoreapp3.1/ProvaOBI2019_Idade.AssemblyInfoInputs.cache
+/Users/crc/Desktop/aprenderCSharp/ProvaOBI2019_Idade/obj/Debug/netcoreapp3.1/ProvaOBI2019_Idade.AssemblyInfo.cs
+/Users/crc/Desktop/aprenderCSharp/ProvaOBI2019_Idade/obj/Debug/netcoreapp3.1/ProvaOBI2019_Idade.csproj.CoreCompileInputs.cache
+/Users/crc/Desktop/aprenderCSharp/ProvaOBI2019_Idade/obj/Debug/netcoreapp3.1/ProvaOBI2019_Idade.dll
+/Users/crc/Desktop/aprenderCSharp/ProvaOBI2019_Idade/obj/Debug/netcoreapp3.1/ProvaOBI2019_Idade.pdb
+/Users/crc/Desktop/aprenderCSharp/ProvaOBI2019_Idade/obj/Debug/netcoreapp3.1/ProvaOBI2019_Idade.genruntimeconfig.cache

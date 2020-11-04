@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "EQMtZ1tXw5DB7/WqzWuMgmEF1Rm92Rx65RaUiJSLWNOkzxAkx4labZ7ntWSvjmxSSdbR2dhw3qJhG3KpMgYgFg==",
+  "success": true,
+  "projectFilePath": "/Users/crc/Desktop/aprenderCSharp/Modulo1/csharp-0/Source/Source.csproj",
+  "expectedPackageFiles": [
+    "/Users/crc/.nuget/packages/microsoft.netcore.platforms/1.1.0/microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "/Users/crc/.nuget/packages/netstandard.library/2.0.3/netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
