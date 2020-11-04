@@ -8,12 +8,12 @@ namespace ProvaOBI2019_Idade
         {
             try
             {
-                Console.Write("Digite o primeiro número: ");
-                var soma = Convert.ToDecimal(Console.ReadLine());
-                Console.Write("Digite o numero a ser dividido: ");
-                var quantidade = Convert.ToDecimal(Console.ReadLine());
-                var media = soma / quantidade;
-                Console.WriteLine("Média calculada: " + media);
+                Console.Write("Informe a idade de dona Mônica: ");
+                var idadeMae = Convert.ToInt32(Console.ReadLine()); //Idade da dona Mônica                
+                Console.Write("Digite a idade do primeiro filho: ");
+                var idadeFilhoA = Convert.ToInt32(Console.ReadLine()); //Idade de um dos filhos
+                Console.Write("Digite a idade do segundo filho: ");
+                var idadeFilhoB = Convert.ToInt32(Console.ReadLine()); //Idade de um dos filhos                                  
             }
             catch (FormatException)
             {
@@ -23,11 +23,6 @@ namespace ProvaOBI2019_Idade
             {
                 Console.WriteLine("O valor digitado excede os limites suportados.");
             }
-            catch (DivideByZeroException)
-            {
-                Console.WriteLine("Não é possível dividir por zero.");
-            }
-
 
             CalculadoraIdade calculadora = new CalculadoraIdade();
             var resultado = calculadora.CalcularIdadeFilhoMaisVelho(0,0,0);
